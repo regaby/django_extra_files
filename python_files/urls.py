@@ -4,6 +4,7 @@ from . import views
 urlpatterns = [
    path('', views.index), # views.index -> llama al metodo index dentro de views.py
 ]
+# este comentario va en la rama hito_2
 
 post_django = {
     'titulo': 'Curso de Django',
